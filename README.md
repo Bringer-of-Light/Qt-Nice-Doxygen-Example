@@ -9,7 +9,7 @@ Qt-Nice-Doxygen-Example shows the general usage of Doxygen tool to Auto-Document
 Qt-Nice-Doxygen-Example 展示了在 Qt 项目中使用 Doxygen 工具进行自动化文档生成。
 
 ## Auto-Generated Document
-[Qt-Nice-Doxygen-Example Document](doc/html/index.html)
+[Qt-Nice-Doxygen-Example Document](https://bringer-of-light.github.io/Qt-Nice-Doxygen-Example/doc/html/index.html)
 
 ## How to use
 1. Download doxygen binary distribution from [Doxygen Downloads](http://www.stack.nl/~dimitri/doxygen/download.html) and install it.
