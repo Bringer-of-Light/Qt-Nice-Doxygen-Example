@@ -1,0 +1,8 @@
+
+/*!
+    \defgroup Project2
+    \ingroup QtNiceDoxygenExample
+    \brief Second subproject.
+
+    Project2 is the second subproject of Qt-Nice-Doxygen-Example, it contains nothing except the \ref MainWindow2. 
+*/

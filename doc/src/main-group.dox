@@ -1,0 +1,6 @@
+
+/*!
+    \defgroup QtNiceDoxygenExample Qt Nice Doxygen Example
+    \brief Example of Doxygen.
+    The Qt Nice Doxygen Example shows the general usage of Doxygen tool to Auto-Document our Qt project.
+*/
